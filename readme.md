@@ -102,7 +102,3 @@ Sinta-se à vontade para contribuir com melhorias ou correções! Para isso, env
 
 ## Licença
 Este projeto é de código aberto e está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-Este README fornece uma visão clara do projeto, com instruções de uso, descrição dos endpoints e sugestões de melhorias. O nome **LibraryAPI** reflete a essência do projeto: uma API simples e funcional para gerenciar uma biblioteca de livros.
